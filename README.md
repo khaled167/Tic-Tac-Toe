@@ -1,0 +1,1 @@
+What makes this project awesome is the use of Artificial Intelligence Mini-Max Algorithm along with the Problem Solving Paradigm Dynamic Programming which enables you to choose the dimension of the TicTacToe board, not only 3x3, but also you can use 4x4 and 5x5, thanks to the efficient algorithms I used above.
